@@ -8,10 +8,11 @@ using Il2CppAssets.Scripts.Models;
 using Il2CppAssets.Scripts.Models.Bloons;
 using Il2CppAssets.Scripts.Models.Difficulty;
 using Il2CppAssets.Scripts.Models.Rounds;
+using Italian_Bloon;
 using MelonLoader;
 using System;
 
-[assembly: MelonInfo(typeof(Italian_Bloon.main), "Italian Bloon", "1.0.0", "000Diggity000")]
+[assembly: MelonInfo(typeof(Italian_Bloon.main), ModHelperData.Name, ModHelperData.Version, ModHelperData.RepoOwner)]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
 namespace Italian_Bloon
 {
