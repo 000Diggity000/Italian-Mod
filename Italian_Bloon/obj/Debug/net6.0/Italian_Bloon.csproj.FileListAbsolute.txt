@@ -1,0 +1,12 @@
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\bin\Debug\net6.0\Italian_Bloon.deps.json
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\bin\Debug\net6.0\Italian_Bloon.dll
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\bin\Debug\net6.0\ref\Italian_Bloon.dll
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\bin\Debug\net6.0\Italian_Bloon.pdb
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\obj\Debug\net6.0\Italian_Bloon.csproj.AssemblyReference.cache
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\obj\Debug\net6.0\Italian_Bloon.GeneratedMSBuildEditorConfig.editorconfig
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\obj\Debug\net6.0\Italian_Bloon.AssemblyInfoInputs.cache
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\obj\Debug\net6.0\Italian_Bloon.AssemblyInfo.cs
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\obj\Debug\net6.0\Italian_Bloon.csproj.CoreCompileInputs.cache
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\obj\Debug\net6.0\Italian_Bloon.dll
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\obj\Debug\net6.0\ref\Italian_Bloon.dll
+P:\btd6 mod\Italian_Bloon\Italian_Bloon\obj\Debug\net6.0\Italian_Bloon.pdb
