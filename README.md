@@ -1,5 +1,5 @@
 # Italian-Mod
 Adds the Italian Bloon. It spawns at round 23, 24, 30 and 36. It also spawns a red, green and white bloon after it pops.
 
-![Title](https://avatars.githubusercontent.com/u/116099377?s=400&u=e8e5a79a9e4320c16f73f994b957c606c7e9beca&v=4)
+(![image](https://github.com/000Diggity000/Italian-Mod/assets/116099377/a5c66601-f296-4f7a-830d-4f5adf6c01af)
 
